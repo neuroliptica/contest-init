@@ -3,7 +3,7 @@ My old simple utility to initialize the contest folder with .cpp files by some t
 
 ## Compile
 ```bash
-$ gcc -O3 init.c -o cinit
+$ gcc -O3 cinit.c
 ```
 
 ## Usage
